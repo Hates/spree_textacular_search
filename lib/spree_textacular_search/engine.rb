@@ -1,6 +1,6 @@
 module SpreeTextacularSearch
   class Engine < Rails::Engine
-    require 'spree/core'
+    require 'textacular'
     isolate_namespace Spree
     engine_name 'spree_textacular_search'
 
