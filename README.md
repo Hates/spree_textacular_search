@@ -1,4 +1,4 @@
-# SpreeSunspotSearch
+# SpreeTextacularSearch
 
 Search products using textacular.
 
